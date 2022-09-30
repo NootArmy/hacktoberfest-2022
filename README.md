@@ -11,7 +11,17 @@
 ### Discord Bot - NootsBot
 
 - Similar features to Twitch Bot
-- ...
+
+### Twitter Live Status
+
+- Display LIVE 🔴 when live on Twitch.
+- Tweet when live on Twitch.
+
+### cajogos.stream website
+
+- Add a Noot Army page
+- Add an affiliate section (Carlos and Noot Army Links)
+
 
 ---
 
